@@ -1,0 +1,10 @@
+site_name: Lloc Final
+
+nav:
+  - Índex: index.md
+  - Comandes: comandes.md
+  - Documentació: docu.md
+
+theme:
+  name: material
+  locale: es
